@@ -1,7 +1,3 @@
-# Manuvision.xyz
-
-Manuvision: Body Therapy for self-discovery
-
 ## About
 
 This repo contains all the files for the manuvision.xyz webpage. 
