@@ -12,8 +12,8 @@ All issues, suggestions and constributions welcome.
 
 ## Credits
 
-
 Photography: Anisa Xhomaqi (https://www.anisaxhomaqi.com)
+
 Web design: HTML5 UP (hemtl5up.net)
 Icons: Font Awesome (fontawesome.io)
 
