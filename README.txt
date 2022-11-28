@@ -1,19 +1,19 @@
-# README
-
 ## About
 
-A Website
+This repo contains all the files for the manuvision.xyz webpage. 
 
-## Credits:
+It is built on a html5 template.
 
+All issues, suggestions and constributions welcome.
 
-	Web Design:
-		HTML5 UP (html5up.net)
-	Demo Images:
-		Unsplash (unsplash.com)
-	Icons:
-		Font Awesome (fontawesome.io)
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Credits
+
+Photography: Anisa Xhomaqi (https://www.anisaxhomaqi.com)
+
+Web design: HTML5 UP (hemtl5up.net)
+Icons: Font Awesome (fontawesome.io)
+
+Other: 
+jQuery (jquery.com)
+Scrollex (github.com/ajlkn/jquery.scrollex)
+Responsive Tools (github.com/ajlkn/responsive-tools)
